@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+
+		<title>Jogo Emoji</title>
+
+		<script language='Javascript'>
+			function iniciaJogo(){
+				var nivel_jogo = document.getElementById	('nivel_jogo').value; 
+
+				window.location.href = 'jogo.html?'+ nivel_jogo 
+				alert(nivel_jogo);
+
+			}
+		</script>
+	</head>
+
+	<body>
+	<div style="float:left; width:140px; height:500px; background:#FFF; border:solid 1px #A2A2A2; margin-right: 5px; box-shadow: 3px 3px 5px 1px rgba(97,94,97,0.51); padding-left: 20px;">
+		<p>
+		<b>Nível: </b>
+			<select id="nivel_jogo"> 
+				<option value="1">Fácil</option>
+				<option value="2">Normal</option>
+				<option value="3">Difícil</option>
+				</select>
+				</p>
+				<br/>
+
+				<img src="imagens/iniciar.png" onclick="iniciaJogo()"/>
+				</div>
+				<div id="cenario" style="float: left; width:600px; height:500px; background: url('imagens/cenariocompleto.png'); background-position: center;">
+		</div>
+
+	</body>
+	
+</html>
