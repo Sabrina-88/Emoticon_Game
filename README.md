@@ -18,7 +18,7 @@ This is personal project that I developed from online courses that I did. The go
 
 **Version 004 -** Implement Firebase to store login and player scores.
 
-
+#
 
 ## Motivação
 Esse é um projeto pessoal que desenvolvi a partir de cursos online que eu fiz. O objetivo do jogo é clicar em todos os emoticons no menor tempo possível, na versão atual (versão 001) possui 3 níveis de dificuldade.
