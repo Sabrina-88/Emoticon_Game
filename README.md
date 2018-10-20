@@ -1,6 +1,7 @@
 # Emoticon Game
 
-![thumbnail_cover](https://user-images.githubusercontent.com/27375075/47250429-2cfd9800-d3f7-11e8-96b3-7e876aaa2d90.PNG) ![thumbnail_game](https://user-images.githubusercontent.com/27375075/47250430-2cfd9800-d3f7-11e8-9622-7d6b2b4988c1.PNG)
+![thumbnail_cover - copia](https://user-images.githubusercontent.com/27375075/47250581-de053200-d3f9-11e8-93b7-bf0ce5734028.PNG)
+![thumbnail_game - copia](https://user-images.githubusercontent.com/27375075/47250582-de053200-d3f9-11e8-82fd-7efae047a0a0.PNG)
 
 ## Motivation
 This is personal project that I developed from online courses that I did. The goal of the game is to click on all the emoticons in the shortest time possible, in the current version (version 001) has 3 difficulty levels.
@@ -9,7 +10,6 @@ This is personal project that I developed from online courses that I did. The go
 * HTML5
 * CSS3	
 * Javascript
-
 
 ## Future versions
 **Version 002 -** Refactor code using Jquery and implement new emojis.
